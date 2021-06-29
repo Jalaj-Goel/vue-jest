@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1624969917416" clover="3.2.0">
+  <project timestamp="1624969917417" name="All files">
+    <metrics statements="11" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="4" elements="17" coveredelements="13" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
+    <file name="HelloWorld.vue" path="/home/jalaj/Documents/do/vue/project-spec/src/components/HelloWorld.vue">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+    </file>
+    <file name="UserTable.vue" path="/home/jalaj/Documents/do/vue/project-spec/src/components/UserTable.vue">
+      <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="37" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
